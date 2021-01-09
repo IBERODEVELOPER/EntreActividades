@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dos actividades y un Intento</string>
+    <string name="hin_edit">Ingrese su nombre</string>
+    <string name="text_button">Enviar mensaje</string>
+    <string name="mensaje_actividad">Mensaje de Actividad</string>
+    <string name="mensaje_recibido">¡Bienvenido %1$s!</string>
+</resources>
